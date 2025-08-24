@@ -1,3 +1,2 @@
-#¡Hola mundo! Soy [Tu Nombre]  
+#¡Hola mundo! Soy belu  
 Estoy aprendiendo Git y GitHub y no entiendo nada ah
-Agregué mi presentación en el README
